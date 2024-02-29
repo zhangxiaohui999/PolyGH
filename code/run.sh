@@ -1,0 +1,3 @@
+/data/zhangxiaohui/03.software/GameteBinning_tetraploid/GameteBinning_tetraploid/dev_bin/T10X_barcode_trimmer A_seq4414plus4461_R1.fastq.gz A_seq4414plus4461_R2.fastq.gz
+/data/zhangxiaohui/03.software/GameteBinning_tetraploid/GameteBinning_tetraploid/dev_bin/T10X_barcode_trimmer B_seq4414plus4461_R1.fastq.gz B_seq4414plus4461_R2.fastq.gz
+/data/zhangxiaohui/03.software/GameteBinning_tetraploid/GameteBinning_tetraploid/dev_bin/T10X_barcode_trimmer C_seq2806_R1.fastq.gz C_seq2806_R2.fastq.gz

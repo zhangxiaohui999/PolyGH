@@ -1,0 +1,11 @@
+selectedbed=longctg_list_bed_files_selected594.txt
+cor=0.55
+ctgsize=HiFiasm_ref_6366long_ctgs_selected.ctgsizes
+nLG=48
+ncor=-0.25
+min_hapctg_size=100000
+recalc="_recalc"
+
+gamete_binning_tetra longctg_list_bed_files_selected270.txt 0.46 HiFiasm_ref_6366long_ctgs_selected.ctgsizes 48 -0.25 100000 gamete_binning_selected270_cor0.46_ncor-0.25_minHap100000_ncorminus_recalc >gamete_binning_selected270_cor0.46_ncor-0.25_ncorminus_minHap100000bp_recalc.log
+
+gamete_binning_tetra longctg_list_bed_files_selected240.txt 0.5 HiFiasm_ref_6366long_ctgs_selected.ctgsizes 48 -0.25 100000 gamete_binning_selected240_cor0.5_ncor-0.25_minHap100000_ncorminus_recalc >gamete_binning_selected240_cor0.5_ncor-0.25_ncorminus_minHap100000bp_recalc.log
